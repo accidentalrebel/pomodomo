@@ -1,0 +1,14 @@
+D:\Development\Projects\Pomodomo\ToDoList\bin\Debug\ToDoList.exe.config
+D:\Development\Projects\Pomodomo\ToDoList\bin\Debug\ToDoList.exe
+D:\Development\Projects\Pomodomo\ToDoList\bin\Debug\ToDoList.pdb
+D:\Development\Projects\Pomodomo\ToDoList\obj\Debug\ResolveAssemblyReference.cache
+D:\Development\Projects\Pomodomo\ToDoList\obj\Debug\ToDoList.Properties.Resources.resources
+D:\Development\Projects\Pomodomo\ToDoList\obj\Debug\ToDoList.ToDoForm.resources
+D:\Development\Projects\Pomodomo\ToDoList\obj\Debug\GenerateResource.read.1.tlog
+D:\Development\Projects\Pomodomo\ToDoList\obj\Debug\GenerateResource.write.1.tlog
+D:\Development\Projects\Pomodomo\ToDoList\obj\Debug\ToDoList.exe
+D:\Development\Projects\Pomodomo\ToDoList\obj\Debug\ToDoList.pdb
+D:\Development\Projects\Pomodomo\ToDoList\bin\Debug\ToDoList.exe.manifest
+D:\Development\Projects\Pomodomo\ToDoList\bin\Debug\ToDoList.application
+D:\Development\Projects\Pomodomo\ToDoList\obj\Debug\ToDoList.exe.manifest
+D:\Development\Projects\Pomodomo\ToDoList\obj\Debug\ToDoList.application

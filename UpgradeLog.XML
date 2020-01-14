@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AccidentalRebel">
+</Property><Property Name="Solution File" Value="C:\Users\Karlo\Dropbox\Development\Projects\AccidentalRebel\AccidentalRebel.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Karlo\Dropbox\Development\Projects\AccidentalRebel\AccidentalRebel.suo">
+</Property><Property Name="Date" Value="Friday, July 27, 2012">
+</Property><Property Name="Time" Value="15:56 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="AccidentalRebel.sln" Description="File successfully backed up as C:\Users\Karlo\Dropbox\Development\Projects\AccidentalRebel\Backup\AccidentalRebel.sln">
+</Event><Event ErrorLevel="0" Project="" Source="AccidentalRebel.suo" Description="File successfully backed up as C:\Users\Karlo\Dropbox\Development\Projects\AccidentalRebel\Backup\AccidentalRebel.suo">
+</Event><Event ErrorLevel="0" Project="ToDoList" Source="ToDoList\ToDoList.csproj" Description="Project file successfully backed up as C:\Users\Karlo\Dropbox\Development\Projects\AccidentalRebel\Backup\ToDoList\ToDoList.csproj">
+</Event><Event ErrorLevel="0" Project="ToDoList" Source="ToDoList\ToDoList.csproj.user" Description="Project user file successfully backed up as C:\Users\Karlo\Dropbox\Development\Projects\AccidentalRebel\Backup\ToDoList\ToDoList.csproj.user">
+</Event><Event ErrorLevel="0" Project="ToDoList" Source="ToDoList\TDLItem.cs" Description="File successfully backed up as C:\Users\Karlo\Dropbox\Development\Projects\AccidentalRebel\Backup\ToDoList\TDLItem.cs">
+</Event><Event ErrorLevel="0" Project="ToDoList" Source="ToDoList\TextParser.cs" Description="File successfully backed up as C:\Users\Karlo\Dropbox\Development\Projects\AccidentalRebel\Backup\ToDoList\TextParser.cs">
+</Event><Event ErrorLevel="0" Project="ToDoList" Source="ToDoList\ToDoForm.cs" Description="File successfully backed up as C:\Users\Karlo\Dropbox\Development\Projects\AccidentalRebel\Backup\ToDoList\ToDoForm.cs">
+</Event><Event ErrorLevel="0" Project="ToDoList" Source="ToDoList\ToDoForm.Designer.cs" Description="File successfully backed up as C:\Users\Karlo\Dropbox\Development\Projects\AccidentalRebel\Backup\ToDoList\ToDoForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ToDoList" Source="ToDoList\Program.cs" Description="File successfully backed up as C:\Users\Karlo\Dropbox\Development\Projects\AccidentalRebel\Backup\ToDoList\Program.cs">
+</Event><Event ErrorLevel="0" Project="ToDoList" Source="ToDoList\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Karlo\Dropbox\Development\Projects\AccidentalRebel\Backup\ToDoList\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ToDoList" Source="ToDoList\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Karlo\Dropbox\Development\Projects\AccidentalRebel\Backup\ToDoList\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ToDoList" Source="ToDoList\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Karlo\Dropbox\Development\Projects\AccidentalRebel\Backup\ToDoList\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ToDoList" Source="ToDoList\Properties\Settings.settings" Description="File successfully backed up as C:\Users\Karlo\Dropbox\Development\Projects\AccidentalRebel\Backup\ToDoList\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ToDoList" Source="ToDoList\Properties\Resources.resx" Description="File successfully backed up as C:\Users\Karlo\Dropbox\Development\Projects\AccidentalRebel\Backup\ToDoList\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ToDoList" Source="ToDoList\ToDoForm.resx" Description="File successfully backed up as C:\Users\Karlo\Dropbox\Development\Projects\AccidentalRebel\Backup\ToDoList\ToDoForm.resx">
+</Event><Event ErrorLevel="0" Project="ToDoList" Source="ToDoList\ToDoList.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ToDoList" Source="ToDoList\ToDoList.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="AccidentalRebel.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="AccidentalRebel.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ToDoList" Source="ToDoList\ToDoList.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
